@@ -1,0 +1,1 @@
+Practica de animaciones en react-native
